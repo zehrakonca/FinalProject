@@ -1,0 +1,5 @@
+c:\users\zehra\onedrive\documents\visual studio 2015\Projects\Solution1\Entities\bin\Debug\Entities.dll
+c:\users\zehra\onedrive\documents\visual studio 2015\Projects\Solution1\Entities\bin\Debug\Entities.pdb
+c:\users\zehra\onedrive\documents\visual studio 2015\Projects\Solution1\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+c:\users\zehra\onedrive\documents\visual studio 2015\Projects\Solution1\Entities\obj\Debug\Entities.dll
+c:\users\zehra\onedrive\documents\visual studio 2015\Projects\Solution1\Entities\obj\Debug\Entities.pdb

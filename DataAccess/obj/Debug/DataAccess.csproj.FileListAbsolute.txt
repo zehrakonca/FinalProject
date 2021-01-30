@@ -1,0 +1,7 @@
+c:\users\zehra\onedrive\documents\visual studio 2015\Projects\Solution1\DataAccess\bin\Debug\DataAccess.dll
+c:\users\zehra\onedrive\documents\visual studio 2015\Projects\Solution1\DataAccess\bin\Debug\DataAccess.pdb
+c:\users\zehra\onedrive\documents\visual studio 2015\Projects\Solution1\DataAccess\bin\Debug\Entities.dll
+c:\users\zehra\onedrive\documents\visual studio 2015\Projects\Solution1\DataAccess\bin\Debug\Entities.pdb
+c:\users\zehra\onedrive\documents\visual studio 2015\Projects\Solution1\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+c:\users\zehra\onedrive\documents\visual studio 2015\Projects\Solution1\DataAccess\obj\Debug\DataAccess.dll
+c:\users\zehra\onedrive\documents\visual studio 2015\Projects\Solution1\DataAccess\obj\Debug\DataAccess.pdb

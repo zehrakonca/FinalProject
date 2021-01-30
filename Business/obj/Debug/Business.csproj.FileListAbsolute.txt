@@ -1,0 +1,9 @@
+c:\users\zehra\onedrive\documents\visual studio 2015\Projects\Solution1\Business\bin\Debug\Business.dll
+c:\users\zehra\onedrive\documents\visual studio 2015\Projects\Solution1\Business\bin\Debug\Business.pdb
+c:\users\zehra\onedrive\documents\visual studio 2015\Projects\Solution1\Business\bin\Debug\DataAccess.dll
+c:\users\zehra\onedrive\documents\visual studio 2015\Projects\Solution1\Business\bin\Debug\Entities.dll
+c:\users\zehra\onedrive\documents\visual studio 2015\Projects\Solution1\Business\bin\Debug\DataAccess.pdb
+c:\users\zehra\onedrive\documents\visual studio 2015\Projects\Solution1\Business\bin\Debug\Entities.pdb
+c:\users\zehra\onedrive\documents\visual studio 2015\Projects\Solution1\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+c:\users\zehra\onedrive\documents\visual studio 2015\Projects\Solution1\Business\obj\Debug\Business.dll
+c:\users\zehra\onedrive\documents\visual studio 2015\Projects\Solution1\Business\obj\Debug\Business.pdb

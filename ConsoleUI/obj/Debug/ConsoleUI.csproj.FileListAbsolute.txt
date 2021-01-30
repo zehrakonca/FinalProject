@@ -1,0 +1,15 @@
+c:\users\zehra\onedrive\documents\visual studio 2015\Projects\Solution1\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+c:\users\zehra\onedrive\documents\visual studio 2015\Projects\Solution1\ConsoleUI\bin\Debug\ConsoleUI.exe
+c:\users\zehra\onedrive\documents\visual studio 2015\Projects\Solution1\ConsoleUI\bin\Debug\ConsoleUI.pdb
+c:\users\zehra\onedrive\documents\visual studio 2015\Projects\Solution1\ConsoleUI\bin\Debug\Business.dll
+c:\users\zehra\onedrive\documents\visual studio 2015\Projects\Solution1\ConsoleUI\bin\Debug\DataAccess.dll
+c:\users\zehra\onedrive\documents\visual studio 2015\Projects\Solution1\ConsoleUI\bin\Debug\Entities.dll
+c:\users\zehra\onedrive\documents\visual studio 2015\Projects\Solution1\ConsoleUI\bin\Debug\Business.pdb
+c:\users\zehra\onedrive\documents\visual studio 2015\Projects\Solution1\ConsoleUI\bin\Debug\DataAccess.pdb
+c:\users\zehra\onedrive\documents\visual studio 2015\Projects\Solution1\ConsoleUI\bin\Debug\Entities.pdb
+c:\users\zehra\onedrive\documents\visual studio 2015\Projects\Solution1\ConsoleUI\obj\Debug\ConsoleUI.csprojResolveAssemblyReference.cache
+c:\users\zehra\onedrive\documents\visual studio 2015\Projects\Solution1\ConsoleUI\obj\Debug\ConsoleUI.exe
+c:\users\zehra\onedrive\documents\visual studio 2015\Projects\Solution1\ConsoleUI\obj\Debug\ConsoleUI.pdb
+C:\Users\zehra\OneDrive\Documents\Visual Studio 2015\Projects\FinalProject\FinalProject\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\zehra\OneDrive\Documents\Visual Studio 2015\Projects\FinalProject\FinalProject\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\zehra\OneDrive\Documents\Visual Studio 2015\Projects\FinalProject\FinalProject\ConsoleUI\obj\Debug\ConsoleUI.pdb
