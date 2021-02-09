@@ -1,0 +1,16 @@
+C:\Users\zehra\source\repos\FinalProject\Bussiness\obj\Debug\netstandard2.0\Bussiness.csprojAssemblyReference.cache
+C:\Users\zehra\source\repos\FinalProject\Bussiness\obj\Debug\netstandard2.0\Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\zehra\source\repos\FinalProject\Bussiness\obj\Debug\netstandard2.0\Bussiness.AssemblyInfoInputs.cache
+C:\Users\zehra\source\repos\FinalProject\Bussiness\obj\Debug\netstandard2.0\Bussiness.AssemblyInfo.cs
+C:\Users\zehra\source\repos\FinalProject\Bussiness\bin\Debug\netstandard2.0\Bussiness.deps.json
+C:\Users\zehra\source\repos\FinalProject\Bussiness\bin\Debug\netstandard2.0\Bussiness.dll
+C:\Users\zehra\source\repos\FinalProject\Bussiness\bin\Debug\netstandard2.0\Bussiness.pdb
+C:\Users\zehra\source\repos\FinalProject\Bussiness\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\zehra\source\repos\FinalProject\Bussiness\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\zehra\source\repos\FinalProject\Bussiness\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\zehra\source\repos\FinalProject\Bussiness\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\zehra\source\repos\FinalProject\Bussiness\obj\Debug\netstandard2.0\Bussiness.csproj.CopyComplete
+C:\Users\zehra\source\repos\FinalProject\Bussiness\obj\Debug\netstandard2.0\Bussiness.dll
+C:\Users\zehra\source\repos\FinalProject\Bussiness\obj\Debug\netstandard2.0\Bussiness.pdb
+C:\Users\zehra\source\repos\FinalProject\Bussiness\bin\Debug\netstandard2.0\Core.dll
+C:\Users\zehra\source\repos\FinalProject\Bussiness\bin\Debug\netstandard2.0\Core.pdb
