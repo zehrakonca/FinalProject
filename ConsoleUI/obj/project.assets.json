@@ -6357,11 +6357,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zehra\\source\\repos\\FinalProject\\ConsoleUI\\ConsoleUI.csproj",
+      "projectUniqueName": "C:\\Users\\zehra\\OneDrive\\Documents\\Visual Studio 2015\\Projects\\FinalProject\\FinalProject\\ConsoleUI\\ConsoleUI.csproj",
       "projectName": "ConsoleUI",
-      "projectPath": "C:\\Users\\zehra\\source\\repos\\FinalProject\\ConsoleUI\\ConsoleUI.csproj",
+      "projectPath": "C:\\Users\\zehra\\OneDrive\\Documents\\Visual Studio 2015\\Projects\\FinalProject\\FinalProject\\ConsoleUI\\ConsoleUI.csproj",
       "packagesPath": "C:\\Users\\zehra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zehra\\source\\repos\\FinalProject\\ConsoleUI\\obj\\",
+      "outputPath": "C:\\Users\\zehra\\OneDrive\\Documents\\Visual Studio 2015\\Projects\\FinalProject\\FinalProject\\ConsoleUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6380,14 +6380,14 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\zehra\\source\\repos\\FinalProject\\Bussiness\\Bussiness.csproj": {
-              "projectPath": "C:\\Users\\zehra\\source\\repos\\FinalProject\\Bussiness\\Bussiness.csproj"
+            "C:\\Users\\zehra\\OneDrive\\Documents\\Visual Studio 2015\\Projects\\FinalProject\\FinalProject\\Bussiness\\Bussiness.csproj": {
+              "projectPath": "C:\\Users\\zehra\\OneDrive\\Documents\\Visual Studio 2015\\Projects\\FinalProject\\FinalProject\\Bussiness\\Bussiness.csproj"
             },
-            "C:\\Users\\zehra\\source\\repos\\FinalProject\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\zehra\\source\\repos\\FinalProject\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\zehra\\OneDrive\\Documents\\Visual Studio 2015\\Projects\\FinalProject\\FinalProject\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\zehra\\OneDrive\\Documents\\Visual Studio 2015\\Projects\\FinalProject\\FinalProject\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\zehra\\source\\repos\\FinalProject\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\zehra\\source\\repos\\FinalProject\\Entities\\Entities.csproj"
+            "C:\\Users\\zehra\\OneDrive\\Documents\\Visual Studio 2015\\Projects\\FinalProject\\FinalProject\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\zehra\\OneDrive\\Documents\\Visual Studio 2015\\Projects\\FinalProject\\FinalProject\\Entities\\Entities.csproj"
             }
           }
         }

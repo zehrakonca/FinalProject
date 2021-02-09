@@ -6147,11 +6147,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zehra\\source\\repos\\FinalProject\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\zehra\\OneDrive\\Documents\\Visual Studio 2015\\Projects\\FinalProject\\FinalProject\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\zehra\\source\\repos\\FinalProject\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\zehra\\OneDrive\\Documents\\Visual Studio 2015\\Projects\\FinalProject\\FinalProject\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\zehra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zehra\\source\\repos\\FinalProject\\Core\\obj\\",
+      "outputPath": "C:\\Users\\zehra\\OneDrive\\Documents\\Visual Studio 2015\\Projects\\FinalProject\\FinalProject\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

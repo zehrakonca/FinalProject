@@ -6204,11 +6204,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zehra\\source\\repos\\FinalProject\\Bussiness\\Bussiness.csproj",
+      "projectUniqueName": "C:\\Users\\zehra\\OneDrive\\Documents\\Visual Studio 2015\\Projects\\FinalProject\\FinalProject\\Bussiness\\Bussiness.csproj",
       "projectName": "Bussiness",
-      "projectPath": "C:\\Users\\zehra\\source\\repos\\FinalProject\\Bussiness\\Bussiness.csproj",
+      "projectPath": "C:\\Users\\zehra\\OneDrive\\Documents\\Visual Studio 2015\\Projects\\FinalProject\\FinalProject\\Bussiness\\Bussiness.csproj",
       "packagesPath": "C:\\Users\\zehra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zehra\\source\\repos\\FinalProject\\Bussiness\\obj\\",
+      "outputPath": "C:\\Users\\zehra\\OneDrive\\Documents\\Visual Studio 2015\\Projects\\FinalProject\\FinalProject\\Bussiness\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6227,11 +6227,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\zehra\\source\\repos\\FinalProject\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\zehra\\source\\repos\\FinalProject\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\zehra\\OneDrive\\Documents\\Visual Studio 2015\\Projects\\FinalProject\\FinalProject\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\zehra\\OneDrive\\Documents\\Visual Studio 2015\\Projects\\FinalProject\\FinalProject\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\zehra\\source\\repos\\FinalProject\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\zehra\\source\\repos\\FinalProject\\Entities\\Entities.csproj"
+            "C:\\Users\\zehra\\OneDrive\\Documents\\Visual Studio 2015\\Projects\\FinalProject\\FinalProject\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\zehra\\OneDrive\\Documents\\Visual Studio 2015\\Projects\\FinalProject\\FinalProject\\Entities\\Entities.csproj"
             }
           }
         }
