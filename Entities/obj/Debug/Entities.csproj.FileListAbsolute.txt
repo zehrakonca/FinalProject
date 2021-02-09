@@ -3,3 +3,8 @@ c:\users\zehra\onedrive\documents\visual studio 2015\Projects\Solution1\Entities
 c:\users\zehra\onedrive\documents\visual studio 2015\Projects\Solution1\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
 c:\users\zehra\onedrive\documents\visual studio 2015\Projects\Solution1\Entities\obj\Debug\Entities.dll
 c:\users\zehra\onedrive\documents\visual studio 2015\Projects\Solution1\Entities\obj\Debug\Entities.pdb
+C:\Users\zehra\OneDrive\Documents\Visual Studio 2015\Projects\FinalProject\FinalProject\Entities\bin\Debug\Entities.dll
+C:\Users\zehra\OneDrive\Documents\Visual Studio 2015\Projects\FinalProject\FinalProject\Entities\bin\Debug\Entities.pdb
+C:\Users\zehra\OneDrive\Documents\Visual Studio 2015\Projects\FinalProject\FinalProject\Entities\obj\Debug\Entities.dll
+C:\Users\zehra\OneDrive\Documents\Visual Studio 2015\Projects\FinalProject\FinalProject\Entities\obj\Debug\Entities.pdb
+C:\Users\zehra\OneDrive\Documents\Visual Studio 2015\Projects\FinalProject\FinalProject\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache

@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Entities.Concrete;
+using System.Linq.Expressions;
 
 namespace DataAccess.Concrete.InMemory
 {
@@ -17,31 +18,31 @@ namespace DataAccess.Concrete.InMemory
             {
                 new Product
                 {
-                    CategoryId = 1, ProductId = 1,
+                    CategoryID = 1, ProductID = 1,
                     ProductName = "Bardak", UnitPrice = 15,
                     UnitsInStock = 15
                 },
                 new Product
                 {
-                    CategoryId = 2, ProductId = 2,
+                    CategoryID = 2, ProductID = 2,
                     ProductName = "Kamera", UnitPrice = 1500,
                     UnitsInStock = 25
                 },
                 new Product
                 {
-                    CategoryId = 2, ProductId = 3,
+                    CategoryID = 2, ProductID = 3,
                     ProductName = "Telefon", UnitPrice = 2500,
                     UnitsInStock = 40
                 },
                 new Product
                 {
-                    CategoryId = 2, ProductId = 4,
+                    CategoryID = 2, ProductID = 4,
                     ProductName = "Klavye", UnitPrice = 75,
                     UnitsInStock = 60
                 },
                 new Product
                 {
-                    CategoryId = 2, ProductId = 5,
+                    CategoryID = 2, ProductID = 5,
                     ProductName = "Fare", UnitPrice = 30,
                     UnitsInStock = 1
                 }
@@ -62,9 +63,14 @@ namespace DataAccess.Concrete.InMemory
             //        productToDelete = p;
             //    }
             //} bu şekildede olabilir. linq ile kullanım aşağıda yazılı. 
-            productToDelete = _products.SingleOrDefault(p=>p.ProductId == product.ProductId);
+            productToDelete = _products.SingleOrDefault(p=>p.ProductID == product.ProductID);
             _products.Remove(productToDelete);
 
+        }
+
+        public Product Get(Expression<Func<Product, bool>> filter)
+        {
+            throw new NotImplementedException();
         }
 
         public List<Product> GetAll()
@@ -72,17 +78,22 @@ namespace DataAccess.Concrete.InMemory
             return _products;
         }
 
+        public List<Product> GetAll(Expression<Func<Product, bool>> filter = null)
+        {
+            throw new NotImplementedException();
+        }
+
         public List<Product> GetAllByCategory(int categoryID)
         {
-            return _products.Where(p => p.CategoryId == categoryID).ToList();
+            return _products.Where(p => p.CategoryID == categoryID).ToList();
         }
 
         public void Update(Product product)
         {
             // gönderilen ürün idsine sahip ürünü bul. 
-            Product productToUpdate = _products.SingleOrDefault(p => p.ProductId == product.ProductId);
+            Product productToUpdate = _products.SingleOrDefault(p => p.ProductID == product.ProductID);
             productToUpdate.ProductName  = product.ProductName;
-            productToUpdate.CategoryId   = product.CategoryId;
+            productToUpdate.CategoryID   = product.CategoryID;
             productToUpdate.UnitPrice    = product.UnitPrice;
             productToUpdate.UnitsInStock = product.UnitsInStock;
 

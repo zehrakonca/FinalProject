@@ -9,11 +9,11 @@ namespace Entities.Concrete
 {
     public class Product : IEntity
     {
-        public int ProductId
+        public int ProductID
         {
             get; set;
         }
-        public int CategoryId
+        public int CategoryID
         {
             get; set;
         }
