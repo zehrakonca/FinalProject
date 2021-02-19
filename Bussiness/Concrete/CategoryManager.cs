@@ -1,4 +1,7 @@
 ﻿using Bussiness.Abstract;
+using Bussiness.Constants;
+using Core.Utilities.Abstract;
+using Core.Utilities.Concrete;
 using DataAccess.Abstract;
 using Entities.Concrete;
 using System;
@@ -14,13 +17,28 @@ namespace Bussiness.Concrete
 		{
 			_categoryDal = categoryDal;
 		}
-		public List<Category> GetAll()
+
+		public IDataResult<List<Category>> GetAll()
 		{
-			return _categoryDal.GetAll();
+			return new SuccessDataResult<List<Category>>(_categoryDal.GetAll(),Messages.ProductsListed);
 		}
-		public Category GetByID(int categoryID)
+
+		public IDataResult<Category> GetByID(int categoryID)
 		{
-			return _categoryDal.Get(c => c.CategoryID == categoryID);
+			return new SuccessDataResult<Category>(_categoryDal.Get(p => p.CategoryID == categoryID));
+		}
+		public IResult Add(Category product)
+		{
+			//business codes
+
+			if (product.CategoryName.Length < 2)
+			{
+				//magic strings
+				return new ErrorResult(Messages.ProductNameInvalid);
+			}
+			_categoryDal.Add(product);
+
+			return new SuccessResult(Messages.ProductAdded);
 		}
 	}
 }
